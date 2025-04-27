@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sun Apr 27 16:25:32 2025 
+Best design point: 1
+Design specs: 
+	Adder:Full_Adder_TB:1	corner	Nominal - 
+Design parameters: 
+	FS		5G
+
+Interactive.16
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.16 completed. 
+Current time: Sun Apr 27 16:25:36 2025 

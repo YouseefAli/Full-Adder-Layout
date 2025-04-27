@@ -1,0 +1,13 @@
+NOTE: Creating CalibreView for cell Full_Adder ...
+Calibre View generation completed with 0 WARNINGs and 0 ERRORs.
+Please consult the CIW transcript for messages.
+ellmap File: /home/cadence/Desktop/tsmc65nm/Calibre/online/rcx_online/calview.cellmap
+//	  Log File: ./calview.log
+//	  Calibre View Name: calibre
+//	  Calibre View Type: maskLayout
+//	  Magnify Devices by: 1.000000
+//	  Magnify Parasitics by: 1.000000
+//	  Create Terminals: if matching terminal exists on symbol
+//	  Reset Properties: ("m=1")
+//	  Generate SPECTRE Netlist: off
+//

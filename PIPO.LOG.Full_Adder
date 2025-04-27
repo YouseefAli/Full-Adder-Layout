@@ -1,0 +1,103 @@
+********************************************************************************
+Product   : Virtuoso(R) XStream Out
+Program   : @(#)$CDS: strmout version 6.1.7-64b 11/09/2015 12:41 (sjfbm191) $
+          : sub-version  IC6.1.7-64b.78 
+Started at: 27-Apr-2025  09:16:46
+User Name : cadence
+Host Name : berkeley
+Directory : /home/cadence/Desktop/Adder
+CADENCE Design Systems, Inc.
+********************************************************************************
+Info: Cellview Rev Num:99,  Tech Rev Num:59
+
+INFO (XSTRM-217): Reading the layer map file, /home/cadence/Desktop/tsmc65nm/tsmcN65/tsmcN65.layermap
+INFO (XSTRM-162): You have not used the viaMap option. If the OpenAccess design has native oaVia instances, use the -viaMap option for preserving oaVia instances in a Stream Out - Stream In round trip. Using the -viaMap option improves performance and VM usage of applications using the Streamed-In design.  For details on the viaMap option, refer to the "Design Data Translator's Reference" guide for XStream.
+
+Summary of Options :
+library                                 Adder
+strmFile                                /home/cadence/Desktop/Adder/Full_Adder.calibre.db
+topCell                                 Full_Adder
+view                                    layout
+runDir                                  /home/cadence/Desktop/Adder/
+logFile                                 PIPO.LOG.Full_Adder
+layerMap                                /home/cadence/Desktop/tsmc65nm/tsmcN65/tsmcN65.layermap
+case                                    Preserve
+convertDot                              node
+
+INFO (XSTRM-223): 1. Translating cellView tsmcN65/M1_OD/layout as STRUCTURE M1_OD_CDNS_745759806320.
+INFO (XSTRM-223): 2. Translating cellView tsmcN65/M2_M1/layout as STRUCTURE M2_M1_CDNS_745759806321.
+INFO (XSTRM-223): 3. Translating cellView tsmcN65/M2_M1/layout as STRUCTURE M2_M1_CDNS_745759806322.
+INFO (XSTRM-223): 4. Translating cellView tsmcN65/M1_PO/layout as STRUCTURE M1_PO_CDNS_745759806323.
+INFO (XSTRM-223): 5. Translating cellView tsmcN65/pch/layout as STRUCTURE pch_CDNS_745759806320.
+WARNING (XSTRM-315): The cellview 'tsmcN65/pch/layout' has a label with multiple lines. This label will be translated as is. If a multiple lines label is not required, correct the label in the source file.
+WARNING (XSTRM-35): The objects in the layer-purpose pair 'instance:drawing' are ignored. This is because the layer-purpose pair used in the design is not specified in the layer map file. Specify the layer-purpose pair in the layer map file and try again.
+INFO (XSTRM-223): 6. Translating cellView tsmcN65/nch/layout as STRUCTURE nch_CDNS_745759806321.
+WARNING (XSTRM-315): The cellview 'tsmcN65/nch/layout' has a label with multiple lines. This label will be translated as is. If a multiple lines label is not required, correct the label in the source file.
+INFO (XSTRM-223): 7. Translating cellView tsmcN65/nch/layout as STRUCTURE nch_CDNS_745759806322.
+WARNING (XSTRM-315): The cellview 'tsmcN65/nch/layout' has a label with multiple lines. This label will be translated as is. If a multiple lines label is not required, correct the label in the source file.
+INFO (XSTRM-223): 8. Translating cellView tsmcN65/nch/layout as STRUCTURE nch_CDNS_745759806323.
+WARNING (XSTRM-315): The cellview 'tsmcN65/nch/layout' has a label with multiple lines. This label will be translated as is. If a multiple lines label is not required, correct the label in the source file.
+INFO (XSTRM-223): 9. Translating cellView tsmcN65/nch/layout as STRUCTURE nch_CDNS_745759806324.
+WARNING (XSTRM-315): The cellview 'tsmcN65/nch/layout' has a label with multiple lines. This label will be translated as is. If a multiple lines label is not required, correct the label in the source file.
+INFO (XSTRM-223): 10. Translating cellView tsmcN65/pch/layout as STRUCTURE pch_CDNS_745759806325.
+WARNING (XSTRM-315): The cellview 'tsmcN65/pch/layout' has a label with multiple lines. This label will be translated as is. If a multiple lines label is not required, correct the label in the source file.
+INFO (XSTRM-223): 11. Translating cellView tsmcN65/pch/layout as STRUCTURE pch_CDNS_745759806326.
+WARNING (XSTRM-315): The cellview 'tsmcN65/pch/layout' has a label with multiple lines. This label will be translated as is. If a multiple lines label is not required, correct the label in the source file.
+INFO (XSTRM-223): 12. Translating cellView tsmcN65/pch/layout as STRUCTURE pch_CDNS_745759806327.
+WARNING (XSTRM-315): The cellview 'tsmcN65/pch/layout' has a label with multiple lines. This label will be translated as is. If a multiple lines label is not required, correct the label in the source file.
+INFO (XSTRM-223): 13. Translating cellView tsmcN65/nch/layout as STRUCTURE nch_CDNS_745759806328.
+WARNING (XSTRM-315): The cellview 'tsmcN65/nch/layout' has a label with multiple lines. This label will be translated as is. If a multiple lines label is not required, correct the label in the source file.
+INFO (XSTRM-223): 14. Translating cellView tsmcN65/pch/layout as STRUCTURE pch_CDNS_745759806329.
+WARNING (XSTRM-315): The cellview 'tsmcN65/pch/layout' has a label with multiple lines. This label will be translated as is. If a multiple lines label is not required, correct the label in the source file.
+INFO (XSTRM-223): 15. Translating cellView tsmcN65/nch/layout as STRUCTURE nch_CDNS_7457598063210.
+WARNING (XSTRM-315): The cellview 'tsmcN65/nch/layout' has a label with multiple lines. This label will be translated as is. If a multiple lines label is not required, correct the label in the source file.
+INFO (XSTRM-223): 16. Translating cellView tsmcN65/nch/layout as STRUCTURE nch_CDNS_7457598063211.
+WARNING (XSTRM-315): The cellview 'tsmcN65/nch/layout' has a label with multiple lines. This label will be translated as is. If a multiple lines label is not required, correct the label in the source file.
+INFO (XSTRM-223): 17. Translating cellView tsmcN65/pch/layout as STRUCTURE pch_CDNS_7457598063212.
+WARNING (XSTRM-315): The cellview 'tsmcN65/pch/layout' has a label with multiple lines. This label will be translated as is. If a multiple lines label is not required, correct the label in the source file.
+INFO (XSTRM-223): 18. Translating cellView tsmcN65/nch/layout as STRUCTURE nch_CDNS_7457598063213.
+WARNING (XSTRM-315): The cellview 'tsmcN65/nch/layout' has a label with multiple lines. This label will be translated as is. If a multiple lines label is not required, correct the label in the source file.
+INFO (XSTRM-223): 19. Translating cellView tsmcN65/nch/layout as STRUCTURE nch_CDNS_7457598063214.
+WARNING (XSTRM-315): The cellview 'tsmcN65/nch/layout' has a label with multiple lines. This label will be translated as is. If a multiple lines label is not required, correct the label in the source file.
+INFO (XSTRM-223): 20. Translating cellView tsmcN65/pch/layout as STRUCTURE pch_CDNS_7457598063215.
+WARNING (XSTRM-315): The cellview 'tsmcN65/pch/layout' has a label with multiple lines. This label will be translated as is. If a multiple lines label is not required, correct the label in the source file.
+INFO (XSTRM-223): 21. Translating cellView tsmcN65/pch/layout as STRUCTURE pch_CDNS_7457598063216.
+WARNING (XSTRM-315): The cellview 'tsmcN65/pch/layout' has a label with multiple lines. This label will be translated as is. If a multiple lines label is not required, correct the label in the source file.
+INFO (XSTRM-223): 22. Translating cellView tsmcN65/pch/layout as STRUCTURE pch_CDNS_7457598063217.
+WARNING (XSTRM-315): The cellview 'tsmcN65/pch/layout' has a label with multiple lines. This label will be translated as is. If a multiple lines label is not required, correct the label in the source file.
+INFO (XSTRM-223): 23. Translating cellView tsmcN65/nch/layout as STRUCTURE nch_CDNS_7457598063218.
+WARNING (XSTRM-315): The cellview 'tsmcN65/nch/layout' has a label with multiple lines. This label will be translated as is. If a multiple lines label is not required, correct the label in the source file.
+INFO (XSTRM-223): 24. Translating cellView tsmcN65/pch/layout as STRUCTURE pch_CDNS_7457598063219.
+WARNING (XSTRM-315): The cellview 'tsmcN65/pch/layout' has a label with multiple lines. This label will be translated as is. If a multiple lines label is not required, correct the label in the source file.
+INFO (XSTRM-223): 25. Translating cellView Adder/Full_Adder/layout as STRUCTURE Full_Adder.
+INFO (XSTRM-180): You have not used the objectMap option. The design has instance(s) of at least one of following OpenAccess objects: oaBlockage, oaBoundary, oaRow, and oaMarker. Any information about these objects will not be translated into the generated stream file. Use the objectMap option to translate/preserve these objects using XStream. For details on the objectMap option, refer to the "Design Data Translator's Reference" guide for XStream.
+WARNING (XSTRM-206): Path length 0.01 at location (3,3) on layer 31 is less than 1/2 of path width 0.10. The path would be written in Stream file as is. To resolve this, fix the reported path in the input design and run the translator again.
+WARNING (XSTRM-206): Path length 0.01 at location (1,3) on layer 31 is less than 1/2 of path width 0.10. The path would be written in Stream file as is. To resolve this, fix the reported path in the input design and run the translator again.
+
+Summary of Objects Translated:
+	Scalar Instances:                       24
+	Array Instances:                        0
+	Polygons:                               0
+	Paths:                                  0
+	Rectangles:                             277
+	Lines:                                  0
+	Arcs:                                   0
+	Donuts:                                 0
+	Dots:                                   0
+	Ellipses:                               0
+	Boundaries:                             0
+	Area Blockages:                         0
+	Layer Blockages:                        0
+	Area Halos:                             0
+	Markers:                                0
+	Rows:                                   0
+	Standard Vias                           27
+	Custom Vias:                            0
+	CdsGen Vias:                            0
+	Pathsegs:                               75
+	Text:                                   193
+	TextDisplay:                            0
+	Cells:                                  25
+
+Elapsed Time: 0.5s   User Time: 0.3s   CPU Time: 0.1s   Peak VM: 100740KB
+INFO (XSTRM-234): Translation completed. '0' error(s) and '23' warning(s) found.

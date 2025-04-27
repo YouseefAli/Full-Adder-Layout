@@ -1,0 +1,19 @@
+\o Program:		@(#)$CDS: cdsLibEditor version 6.1.7 - CAT35 10/18/2015 00:07 (sjfnl678) $
+\o Sub version:		sub-version  p009 
+\o Arguments:		-cdslib /home/cadence/Desktop/Adder/cds.lib -mpssession virtuoso16626 -mpshost berkeley 
+\o Working Directory:	berkeley:/home/cadence/Desktop/Adder
+\o 64-bit offsets
+\a nrSetWindowVisibility(cdsLibEditor "show")
+\o Qt version: 		4.8.5
+\a nrSetCurrentWindow(cdsLibEditor)
+\a nrListItemAction(cdsLibEditor->mainTable 0 0)
+\o Active cell: 0 0 "cdsDefTechLib"
+\a nrResizeWindow(cdsLibEditor list(1 80 500 400))
+\a nrListItemAction(cdsLibEditor->mainTable 9 1)
+\o Active cell: 9 1 ""
+\a nrListItemAction(cdsLibEditor->mainTable 9 0)
+\o Active cell: 9 0 ""
+\a cdsLibEditor->fileSaveButton->value = t
+\a cdsLibEditor->fileExitButton->value = t
+\a nrSetWindowVisibility(cdsLibEditor "hide")
+\a exit(0)

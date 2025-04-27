@@ -1,0 +1,21 @@
+//  Calibre View Setup Information
+//  ------------------------------
+//	  Output Library: Adder
+//	  Schematic Library: Adder
+//	  Cellmap File: /home/cadence/Desktop/tsmc65nm/Calibre/online/rcx_online/calview.cellmap
+//	  Log File: ./calview.log
+//	  Calibre View Name: calibre
+//	  Calibre View Type: maskLayout
+//	  Create Terminals: if matching terminal exists on symbol
+//	  Preserve Device Case: off
+//	  Execute Callbacks: off
+//	  Suppress Notes: off
+//	  Reset Properties: ("m=1")
+//	  Magnify Devices by: 1.000000
+//	  Magnify Parasitics by: 1.000000
+//	  Device Placement: Layout Location
+//	  Parasitic Placement: Arrayed
+//	  Show Parasitic Polygons: off
+//	  Open Calibre CellView: Read-mode
+//	  Generate SPECTRE Netlist: off
+//	  Always Show Dialog: on
